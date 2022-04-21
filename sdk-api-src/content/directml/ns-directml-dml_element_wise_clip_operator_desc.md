@@ -89,6 +89,9 @@ Type: <b><a href="/windows/desktop/WinProg/windows-data-types">FLOAT</a></b>
 
 The maximum value, above which the operator replaces the value with *Max*.
 
+## Remarks
+If the tensor data type is not a *float*, the *Min* and *Max* values are cast to the data type before applying the clipping operation, which for integers means  truncating toward zero and for floating point types rounding toward nearest even per IEEE-754.
+
 ## Availability
 This operator was introduced in `DML_FEATURE_LEVEL_1_0`.
 
