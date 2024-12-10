@@ -29,11 +29,6 @@ targetos: Windows
 req.typenames: 
 req.redist: 
 ms.custom: 19H1
-f1_keywords:
- - GetModuleHandleW
- - libloaderapi/GetModuleHandleW
-dev_langs:
- - c++
 topic_type:
  - APIRef
  - kbSyntax
@@ -53,7 +48,16 @@ api_name:
  - GetModuleHandle
  - GetModuleHandleA
  - GetModuleHandleW
+f1_keywords:
+ - GetModuleHandleW
+ - libloaderapi/GetModuleHandleW
+ - GetModuleHandle
+ - libloaderapi/GetModuleHandle
+dev_langs:
+ - c++
 ---
+
+dev17.query?appId=Dev17IDEF1&l=EN-US&k=k(LIBLOADERAPI%2FGetModuleHandle);k(GetModuleHandle);k(DevLang-C%2B%2B);k(TargetOS-Windows)&rd=true
 
 # GetModuleHandleW function
 
