@@ -57,8 +57,6 @@ dev_langs:
  - c++
 ---
 
-dev17.query?appId=Dev17IDEF1&l=EN-US&k=k(LIBLOADERAPI%2FGetModuleHandle);k(GetModuleHandle);k(DevLang-C%2B%2B);k(TargetOS-Windows)&rd=true
-
 # GetModuleHandleW function
 
 
