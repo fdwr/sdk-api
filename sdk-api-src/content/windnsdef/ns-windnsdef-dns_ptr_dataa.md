@@ -65,7 +65,7 @@ A pointer to a string that represents the pointer (PTR) record data.
 
 The 
 <b>DNS_PTR_DATA</b> structure is used in conjunction with the 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
 
 
 
@@ -76,5 +76,5 @@ The
 
 ## -see-also
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a>
 

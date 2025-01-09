@@ -54,13 +54,13 @@ api_name:
 
 The 
 <b>DNS_RECORD_FLAGS</b> structure is used to set flags for use in the 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a> structure.
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a> structure.
 
 ## -struct-fields
 
 ### -field Section
 
-A <a href="/windows/win32/api/windnsdef/ne-windns-dns_section">DNS_SECTION</a> value that specifies the section of interest returned from the 
+A <a href="/windows/win32/api/windnsdef/ne-windnsdef-dns_section">DNS_SECTION</a> value that specifies the section of interest returned from the 
 <a href="/windows/win32/api/windnsdef/nf-windns-dnsquery_a">DnsQuery</a> function call.
 
 ### -field Delete
@@ -69,7 +69,7 @@ Reserved. Do not use.
 
 ### -field CharSet
 
-A <a href="/windows/win32/api/windnsdef/ne-windns-dns_charset">DNS_CHARSET</a> value that specifies the character set used in the associated function call.
+A <a href="/windows/win32/api/windnsdef/ne-windnsdef-dns_charset">DNS_CHARSET</a> value that specifies the character set used in the associated function call.
 
 ### -field Unused
 
@@ -81,4 +81,4 @@ Reserved. Do not use.
 
 ## -see-also
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a>

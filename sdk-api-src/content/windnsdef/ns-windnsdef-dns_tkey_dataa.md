@@ -147,7 +147,7 @@ An error, expressed in expanded RCODE format that covers TSIG and TKEY RR proces
 </dl>
 </td>
 <td width="60%">
-The <b>pSignature</b> of the <a href="/windows/win32/api/windnsdef/ns-windns-dns_tsig_dataw">DNS_TSIG_DATA</a> RR is bad.
+The <b>pSignature</b> of the <a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_tsig_dataw">DNS_TSIG_DATA</a> RR is bad.
 
 </td>
 </tr>
@@ -193,7 +193,7 @@ Reserved. Do not use.
 
 The 
 <b>DNS_TKEY_DATA</b> structure is used in conjunction with the 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
 
 
 
@@ -204,9 +204,9 @@ The
 
 ## -see-also
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a>
 
 
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_tsig_dataw">DNS_TSIG_DATA</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_tsig_dataw">DNS_TSIG_DATA</a>
 

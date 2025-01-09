@@ -68,7 +68,7 @@ Reserved. Must be 0.
 
 ## -see-also
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_addr_array">DNS_ADDR_ARRAY</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_addr_array">DNS_ADDR_ARRAY</a>
 
 
 

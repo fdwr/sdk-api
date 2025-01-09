@@ -59,15 +59,15 @@ The
 
 ### -field Ip6Address
 
-An <a href="/windows/win32/api/windnsdef/ns-windns-ip6_address">IP6_ADDRESS</a> data type that contains an IPv6 address.
+An <a href="/windows/win32/api/windnsdef/ns-windnsdef-ip6_address">IP6_ADDRESS</a> data type that contains an IPv6 address.
 
 ## -remarks
 
 The 
 <b>DNS_AAAA_DATA</b> structure is used in conjunction with the 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
 
 ## -see-also
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a>
 

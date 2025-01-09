@@ -76,7 +76,7 @@ A <b>BYTE</b> array that contains variable transport level information as specif
 
 The 
 <b>DNS_OPT_DATA</b> structure is used in conjunction with the 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
 
 ## -see-also
 
@@ -84,5 +84,5 @@ The
 
 
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a>
 

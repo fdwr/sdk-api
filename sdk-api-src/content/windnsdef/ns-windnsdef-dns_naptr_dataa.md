@@ -83,7 +83,7 @@ A pointer to a string that represents the next NAPTR query name as defined in se
 
 ## -see-also
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a>
 
 ## -remarks
 

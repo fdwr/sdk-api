@@ -61,7 +61,7 @@ The
 
 ### -field MessageHead
 
-A <a href="/windows/win32/api/windnsdef/ns-windns-dns_header">DNS_HEADER</a> structure that contains the header for the DNS message.
+A <a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_header">DNS_HEADER</a> structure that contains the header for the DNS message.
 
 ### -field MessageBody
 

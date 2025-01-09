@@ -58,7 +58,7 @@ The <b>DNS_DS_DATA</b> structure represents a DS  resource record (RR) as specif
 
 ### -field wKeyTag
 
-A value that represents the method to choose which public key is used to verify  <b>Signature</b> in <a href="/windows/win32/api/windnsdef/ns-windns-dns_sig_dataw">DNS_RRSIG_DATA</a> as specified in Appendix B of <a href="https://www.ietf.org/rfc/rfc4034.txt">RFC 4034</a>. This value is identical to the <b>wKeyTag</b> field in <b>DNS_RRSIG_DATA</b>.
+A value that represents the method to choose which public key is used to verify  <b>Signature</b> in <a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_sig_dataw">DNS_RRSIG_DATA</a> as specified in Appendix B of <a href="https://www.ietf.org/rfc/rfc4034.txt">RFC 4034</a>. This value is identical to the <b>wKeyTag</b> field in <b>DNS_RRSIG_DATA</b>.
 
 ### -field chAlgorithm
 
@@ -162,7 +162,7 @@ A <b>BYTE</b> array that contains a cryptographic digest of the DNSKEY RR and RD
 
 The 
 <b>DNS_DS_DATA</b> structure is used in conjunction with the 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
 
 ## -see-also
 
@@ -170,5 +170,5 @@ The
 
 
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a>
 

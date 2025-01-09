@@ -113,7 +113,7 @@ The time, in seconds, <b>i64CreateTime</b> may be in error.
 
 ### -field wOriginalXid
 
-The <a href="/windows/win32/api/windnsdef/ns-windns-dns_header">Xid</a>  identifier of the original message.
+The <a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_header">Xid</a>  identifier of the original message.
 
 ### -field wError
 
@@ -140,7 +140,7 @@ The <b>pSignature</b> field is bad.
 </dl>
 </td>
 <td width="60%">
-The <b>pKey</b> field of the <a href="/windows/win32/api/windnsdef/ns-windns-dns_tkey_dataw">DNS_TKEY_DATA</a> RR is bad.
+The <b>pKey</b> field of the <a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_tkey_dataw">DNS_TKEY_DATA</a> RR is bad.
 
 </td>
 </tr>
@@ -176,7 +176,7 @@ Reserved for future use. Do not use.
 
 The 
 <b>DNS_TSIG_DATA</b> structure is used in conjunction with the 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a> structure to programmatically manage DNS entries.
 
 
 
@@ -187,9 +187,9 @@ The
 
 ## -see-also
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_recorda">DNS_RECORD</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_recorda">DNS_RECORD</a>
 
 
 
-<a href="/windows/win32/api/windnsdef/ns-windns-dns_tkey_dataw">DNS_TKEY_DATA</a>
+<a href="/windows/win32/api/windnsdef/ns-windnsdef-dns_tkey_dataw">DNS_TKEY_DATA</a>
 
