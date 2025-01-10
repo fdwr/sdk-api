@@ -6,7 +6,7 @@ helpviewer_keywords: ["SetIoRateControlInformationJobObject","SetIoRateControlIn
 old-location: base\setioratecontrolinformationjobobject.htm
 tech.root: backup
 ms.assetid: 7E108E01-6D43-4336-BFE0-5EE655FD5D45
-ms.date: 12/05/2018
+ms.date: 01/09/2025
 ms.keywords: SetIoRateControlInformationJobObject, SetIoRateControlInformationJobObject function, base.setioratecontrolinformationjobobject, jobapi2/SetIoRateControlInformationJobObject
 req.header: jobapi2.h
 req.include-header: 

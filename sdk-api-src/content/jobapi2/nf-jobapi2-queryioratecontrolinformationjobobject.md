@@ -6,7 +6,7 @@ helpviewer_keywords: ["QueryIoRateControlInformationJobObject","QueryIoRateContr
 old-location: base\queryioratecontrolinformationjobobject.htm
 tech.root: backup
 ms.assetid: B61DA8FC-1CF7-4D97-86F5-E3C2131D41EC
-ms.date: 12/05/2018
+ms.date: 01/09/2025
 ms.keywords: QueryIoRateControlInformationJobObject, QueryIoRateControlInformationJobObject function, base.queryioratecontrolinformationjobobject, jobapi2/QueryIoRateControlInformationJobObject
 req.header: jobapi2.h
 req.include-header: 
