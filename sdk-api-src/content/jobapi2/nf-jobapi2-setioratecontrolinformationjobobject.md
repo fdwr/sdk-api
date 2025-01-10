@@ -52,6 +52,8 @@ api_name:
 
 ## -description
 
+**Windows 10, version 1607, and newer: This function is not supported.**
+
 Sets I/O limits on a job object.
 
 ## -parameters
@@ -72,9 +74,6 @@ If the function fails, the return value is zero. To get extended error informati
 <a href="/windows/desktop/api/errhandlingapi/nf-errhandlingapi-getlasterror">GetLastError</a>.
 
 ## -remarks
-
-<div class="alert"><b>Important</b>  Starting with Windows 10, version 1607, this function is no longer supported.</div>
-<div> </div>
 
 ## -see-also
 
