@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_NAPTR_DATA","*PDNS_NAPTR_DATAA","DNS_NAPTR_DATA","D
 old-location: dns\dns_naptr_data.htm
 tech.root: DNS
 ms.assetid: 8f576efb-4ef3-4fc0-8cf5-d373460a3b3c
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_NAPTR_DATA, *PDNS_NAPTR_DATAA, DNS_NAPTR_DATA, DNS_NAPTR_DATA structure [DNS], DNS_NAPTR_DATAA, PDNS_NAPTR_DATA, PDNS_NAPTR_DATA structure pointer [DNS], dns.dns_naptr_data, windnsdef/DNS_NAPTR_DATA, windnsdef/PDNS_NAPTR_DATA'
 req.header: windnsdef.h
 req.include-header: 

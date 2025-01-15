@@ -6,7 +6,7 @@ helpviewer_keywords: ["DNS_RECORD_FLAGS","DNS_RECORD_FLAGS structure [DNS]","_Dn
 old-location: dns\dns_record_flags.htm
 tech.root: DNS
 ms.assetid: 53c1c8bc-20b0-4b15-b2b6-9c9854f73ee3
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: DNS_RECORD_FLAGS, DNS_RECORD_FLAGS structure [DNS], _DnsRecordFlags, _dns_dns_record_flags, dns.dns_record_flags, windnsdef/DNS_RECORD_FLAGS
 req.header: windnsdef.h
 req.include-header: 

@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_WKS_DATA","DNS_WKS_DATA","DNS_WKS_DATA structure [D
 old-location: dns\dns_wks_data.htm
 tech.root: DNS
 ms.assetid: 94477345-74e7-40bf-a75b-e4bf67f1c17b
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_WKS_DATA, DNS_WKS_DATA, DNS_WKS_DATA structure [DNS], PDNS_WKS_DATA, PDNS_WKS_DATA structure pointer [DNS], Transmission Control Protocol (TCP), User Datagram Protocol (UDP), _dns_dns_wks_data, dns.dns_wks_data, windnsdef/DNS_WKS_DATA, windnsdef/PDNS_WKS_DATA'
 req.header: windnsdef.h
 req.include-header: 

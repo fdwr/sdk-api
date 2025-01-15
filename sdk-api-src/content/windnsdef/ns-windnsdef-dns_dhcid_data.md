@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_DHCID_DATA","DNS_DHCID_DATA","DNS_DHCID_DATA struct
 old-location: dns\dns_dhcid_data.htm
 tech.root: DNS
 ms.assetid: 868846bc-9f63-4bb3-ac8d-cea34232bb41
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_DHCID_DATA, DNS_DHCID_DATA, DNS_DHCID_DATA structure [DNS], PDNS_DHCID_DATA, PDNS_DHCID_DATA structure pointer [DNS], dns.dns_dhcid_data, windnsdef/DNS_DHCID_DATA, windnsdef/PDNS_DHCID_DATA'
 req.header: windnsdef.h
 req.include-header: 

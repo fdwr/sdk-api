@@ -6,7 +6,7 @@ helpviewer_keywords: ["DNS_CHARSET","DNS_CHARSET enumeration [DNS]","DnsCharSetA
 old-location: dns\dns_charset.htm
 tech.root: DNS
 ms.assetid: 2674a4e5-c3e2-4a25-bd6f-1fc6b4db3012
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: DNS_CHARSET, DNS_CHARSET enumeration [DNS], DnsCharSetAnsi, DnsCharSetUnicode, DnsCharSetUnknown, DnsCharSetUtf8, dns.dns_charset, windnsdef/DNS_CHARSET, windnsdef/DnsCharSetAnsi, windnsdef/DnsCharSetUnicode, windnsdef/DnsCharSetUnknown, windnsdef/DnsCharSetUtf8
 req.header: windnsdef.h
 req.include-header: 

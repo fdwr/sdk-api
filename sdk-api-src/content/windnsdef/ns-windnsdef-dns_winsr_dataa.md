@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_WINSR_DATA","*PDNS_WINSR_DATAA","DNS_WINSR_DATA","D
 old-location: dns\dns_winsr_data.htm
 tech.root: DNS
 ms.assetid: a7e79e30-905f-42a5-a4de-02d71adfe95e
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_WINSR_DATA, *PDNS_WINSR_DATAA, DNS_WINSR_DATA, DNS_WINSR_DATA structure [DNS], DNS_WINSR_DATAA, DNS_WINS_FLAG_LOCAL, DNS_WINS_FLAG_SCOPE, PDNS_WINSR_DATA, PDNS_WINSR_DATA structure pointer [DNS], _dns_dns_winsr_data, dns.dns_winsr_data, windnsdef/DNS_WINSR_DATA, windnsdef/PDNS_WINSR_DATA'
 req.header: windnsdef.h
 req.include-header: 

@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_HEADER","*PDNS_HEADER structure [DNS]","DNS_HEADER"
 old-location: dns\dns_header.htm
 tech.root: DNS
 ms.assetid: e5bf19a1-4c71-482d-a075-1e149f94505b
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_HEADER, *PDNS_HEADER structure [DNS], DNS_HEADER, DNS_HEADER structure [DNS], dns.dns_header, windnsdef/*PDNS_HEADER, windnsdef/DNS_HEADER'
 req.header: windnsdef.h
 req.include-header: 

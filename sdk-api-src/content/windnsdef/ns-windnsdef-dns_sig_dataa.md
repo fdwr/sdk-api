@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_RRSIG_DATA","*PDNS_RRSIG_DATAA","*PDNS_SIG_DATA","*
 old-location: dns\dns_rrsig_data.htm
 tech.root: DNS
 ms.assetid: 09c2f515-acc1-402f-8e62-a0d273031633
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_RRSIG_DATA, *PDNS_RRSIG_DATAA, *PDNS_SIG_DATA, *PDNS_SIG_DATAA, 1, 2, 3, 4, 5, DNS_RRSIG_DATA, DNS_RRSIG_DATA structure [DNS], DNS_RRSIG_DATAA, DNS_SIG_DATA, DNS_SIG_DATAA, PDNS_RRSIG_DATA, PDNS_RRSIG_DATA structure pointer [DNS], dns.dns_rrsig_data, windnsdef/DNS_RRSIG_DATA, windnsdef/PDNS_RRSIG_DATA'
 req.header: windnsdef.h
 req.include-header: 

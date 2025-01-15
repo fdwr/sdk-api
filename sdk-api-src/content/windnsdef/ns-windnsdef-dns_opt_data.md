@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_OPT_DATA","DNS_OPT_DATA","DNS_OPT_DATA structure [D
 old-location: dns\dns_opt_data.htm
 tech.root: DNS
 ms.assetid: a8e23127-a625-4206-abe8-0787b4ac0f30
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_OPT_DATA, DNS_OPT_DATA, DNS_OPT_DATA structure [DNS], PDNS_OPT_DATA, PDNS_OPT_DATA structure pointer [DNS], dns.dns_opt_data, windnsdef/DNS_OPT_DATA, windnsdef/PDNS_OPT_DATA'
 req.header: windnsdef.h
 req.include-header: 

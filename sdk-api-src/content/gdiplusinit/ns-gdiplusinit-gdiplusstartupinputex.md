@@ -1,7 +1,7 @@
 ---
 UID: NS:gdiplusinit.GdiplusStartupInputEx
 title: GdiplusStartupInputEx
-ms.date: 01/14/2024
+ms.date: 01/15/2025
 targetos: Windows
 description: The **GdiplusStartupInputEx** structure holds a block of arguments that are required by the [GdiplusStartup](../gdiplusinit/nf-gdiplusinit-gdiplusstartup.md) function.
 tech.root: gdiplus

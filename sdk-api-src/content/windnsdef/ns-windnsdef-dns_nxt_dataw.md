@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_NXT_DATA","*PDNS_NXT_DATAW","DNS_NXT_DATA","DNS_NXT
 old-location: dns\dns_nxt_data.htm
 tech.root: DNS
 ms.assetid: 0e5370c2-30d3-4bb7-85a0-f4412f5572fd
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_NXT_DATA, *PDNS_NXT_DATAW, DNS_NXT_DATA, DNS_NXT_DATA structure [DNS], DNS_NXT_DATAW, PDNS_NXT_DATA, PDNS_NXT_DATA structure pointer [DNS], _dns_dns_nxt_data, dns.dns_nxt_data, windnsdef/DNS_NXT_DATA, windnsdef/PDNS_NXT_DATA'
 req.header: windnsdef.h
 req.include-header: 

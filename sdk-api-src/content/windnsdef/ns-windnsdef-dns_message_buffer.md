@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_MESSAGE_BUFFER","DNS_MESSAGE_BUFFER","DNS_MESSAGE_B
 old-location: dns\dns_message_buffer.htm
 tech.root: DNS
 ms.assetid: 2a6fdf8f-ac30-4e32-9cde-67d41ddef8af
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_MESSAGE_BUFFER, DNS_MESSAGE_BUFFER, DNS_MESSAGE_BUFFER structure [DNS], PDNS_MESSAGE_BUFFER, PDNS_MESSAGE_BUFFER structure pointer [DNS], _dns_dns_message_buffer, dns.dns_message_buffer, windnsdef/DNS_MESSAGE_BUFFER, windnsdef/PDNS_MESSAGE_BUFFER'
 req.header: windnsdef.h
 req.include-header: 

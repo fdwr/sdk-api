@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_ATMA_DATA","DNS_ATMA_DATA","DNS_ATMA_DATA structure
 old-location: dns\dns_atma_data.htm
 tech.root: DNS
 ms.assetid: 09df3990-36bd-4656-b5cd-792e521adf9d
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_ATMA_DATA, DNS_ATMA_DATA, DNS_ATMA_DATA structure [DNS], DNS_ATMA_FORMAT_AESA, DNS_ATMA_FORMAT_E164, PDNS_ATMA_DATA, PDNS_ATMA_DATA structure pointer [DNS], _dns_dns_atma_data, dns.dns_atma_data, windnsdef/DNS_ATMA_DATA, windnsdef/PDNS_ATMA_DATA'
 req.header: windnsdef.h
 req.include-header: 

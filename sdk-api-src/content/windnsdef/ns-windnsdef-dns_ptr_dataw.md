@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_PTR_DATA","*PDNS_PTR_DATAW","DNS_PTR_DATA","DNS_PTR
 old-location: dns\dns_ptr_data.htm
 tech.root: DNS
 ms.assetid: 8b7f8898-ac91-46da-876c-889c427068a3
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_PTR_DATA, *PDNS_PTR_DATAW, DNS_PTR_DATA, DNS_PTR_DATA structure [DNS], DNS_PTR_DATAW, PDNS_PTR_DATA, PDNS_PTR_DATA structure pointer [DNS], _dns_dns_ptr_data, dns.dns_ptr_data, windnsdef/DNS_PTR_DATA, windnsdef/PDNS_PTR_DATA'
 req.header: windnsdef.h
 req.include-header: 

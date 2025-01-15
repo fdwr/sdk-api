@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_NULL_DATA","DNS_NULL_DATA","DNS_NULL_DATA structure
 old-location: dns\dns_null_data.htm
 tech.root: DNS
 ms.assetid: c31e468f-8efd-4173-bc2c-442ee4df737f
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_NULL_DATA, DNS_NULL_DATA, DNS_NULL_DATA structure [DNS], PDNS_NULL_DATA, PDNS_NULL_DATA structure pointer [DNS], _dns_dns_null_data, dns.dns_null_data, windnsdef/DNS_NULL_DATA, windnsdef/PDNS_NULL_DATA'
 req.header: windnsdef.h
 req.include-header: 

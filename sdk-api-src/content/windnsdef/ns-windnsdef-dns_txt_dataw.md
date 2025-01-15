@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_TXT_DATA","*PDNS_TXT_DATAW","DNS_TXT_DATA","DNS_TXT
 old-location: dns\dns_txt_data.htm
 tech.root: DNS
 ms.assetid: 3ff643e2-d736-45d5-8cf8-ab5e63caf44b
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_TXT_DATA, *PDNS_TXT_DATAW, DNS_TXT_DATA, DNS_TXT_DATA structure [DNS], DNS_TXT_DATAW, PDNS_TXT_DATA, PDNS_TXT_DATA structure pointer [DNS], _dns_dns_txt_data, dns.dns_txt_data, windnsdef/DNS_TXT_DATA, windnsdef/PDNS_TXT_DATA'
 req.header: windnsdef.h
 req.include-header: 

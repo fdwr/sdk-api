@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_MINFO_DATA","*PDNS_MINFO_DATAW","DNS_MINFO_DATA","D
 old-location: dns\dns_minfo_data.htm
 tech.root: DNS
 ms.assetid: cd392b48-734f-462b-b893-855f07c30575
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_MINFO_DATA, *PDNS_MINFO_DATAW, DNS_MINFO_DATA, DNS_MINFO_DATA structure [DNS], DNS_MINFO_DATAW, PDNS_MINFO_DATA, PDNS_MINFO_DATA structure pointer [DNS], _dns_dns_minfo_data, dns.dns_minfo_data, windnsdef/DNS_MINFO_DATA, windnsdef/PDNS_MINFO_DATA'
 req.header: windnsdef.h
 req.include-header: 

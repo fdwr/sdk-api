@@ -3,7 +3,7 @@ UID: NF:gdiplusinit.GdiplusStartupInputEx.GdiplusStartupInputEx(Version,INT,Debu
 title: GdiplusStartupInputEx::GdiplusStartupInputEx(Version,INT,DebugEventProc,BOOL,BOOL)
 description: Constructor for the GdiplusStartupInputEx structure.
 tech.root: gdiplus
-ms.date: 02/26/2024
+ms.date: 01/15/2025
 targetos: Windows
 req.assembly: 
 req.construct-type: function

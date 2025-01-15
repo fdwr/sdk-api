@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_SOA_DATA","*PDNS_SOA_DATAA","DNS_SOA_DATA","DNS_SOA
 old-location: dns\dns_soa_data.htm
 tech.root: DNS
 ms.assetid: 715cbb70-91fe-47ac-a713-1fe0701d4f8c
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_SOA_DATA, *PDNS_SOA_DATAA, DNS_SOA_DATA, DNS_SOA_DATA structure [DNS], DNS_SOA_DATAA, PDNS_SOA_DATA, PDNS_SOA_DATA structure pointer [DNS], _dns_dns_soa_data, dns.dns_soa_data, windnsdef/DNS_SOA_DATA, windnsdef/PDNS_SOA_DATA'
 req.header: windnsdef.h
 req.include-header: 

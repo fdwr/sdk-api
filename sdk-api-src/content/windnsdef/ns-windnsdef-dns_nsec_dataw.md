@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_NSEC_DATA","*PDNS_NSEC_DATAW","DNS_NSEC_DATA","DNS_
 old-location: dns\dns_nsec_data.htm
 tech.root: DNS
 ms.assetid: ea446732-bc6a-4597-b164-11bfd77c07f2
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_NSEC_DATA, *PDNS_NSEC_DATAW, DNS_NSEC_DATA, DNS_NSEC_DATA structure [DNS], DNS_NSEC_DATAW, PDNS_NSEC_DATA, PDNS_NSEC_DATA structure pointer [DNS], dns.dns_nsec_data, windnsdef/DNS_NSEC_DATA, windnsdef/PDNS_NSEC_DATA'
 req.header: windnsdef.h
 req.include-header: 

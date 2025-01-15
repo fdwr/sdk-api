@@ -6,7 +6,7 @@ helpviewer_keywords: ["DNS_SECTION","DNS_SECTION enumeration [DNS]","DnsSectionA
 old-location: dns\dns_section.htm
 tech.root: DNS
 ms.assetid: d51ef2c7-c2bb-4eed-a026-a559460352b6
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: DNS_SECTION, DNS_SECTION enumeration [DNS], DnsSectionAddtional, DnsSectionAnswer, DnsSectionAuthority, DnsSectionQuestion, dns.dns_section, windnsdef/DNS_SECTION, windnsdef/DnsSectionAddtional, windnsdef/DnsSectionAnswer, windnsdef/DnsSectionAuthority, windnsdef/DnsSectionQuestion
 req.header: windnsdef.h
 req.include-header: 

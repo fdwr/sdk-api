@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_LOC_DATA","DNS_LOC_DATA","DNS_LOC_DATA structure [D
 old-location: dns\dns_loc_data.htm
 tech.root: DNS
 ms.assetid: c1e05479-17f0-4993-8dcf-02036989d6dc
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_LOC_DATA, DNS_LOC_DATA, DNS_LOC_DATA structure [DNS], PDNS_LOC_DATA, PDNS_LOC_DATA structure pointer [DNS], _dns_dns_loc_data, dns.dns_loc_data, windnsdef/DNS_LOC_DATA, windnsdef/PDNS_LOC_DATA'
 req.header: windnsdef.h
 req.include-header: 

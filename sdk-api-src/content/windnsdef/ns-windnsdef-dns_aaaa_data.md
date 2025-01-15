@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_AAAA_DATA","DNS_AAAA_DATA","DNS_AAAA_DATA structure
 old-location: dns\dns_aaaa_data.htm
 tech.root: DNS
 ms.assetid: 0bc48e86-368c-431c-b67a-b7689dca8d3c
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_AAAA_DATA, DNS_AAAA_DATA, DNS_AAAA_DATA structure [DNS], PDNS_AAAA_DATA, PDNS_AAAA_DATA structure pointer [DNS], _dns_dns_aaaa_data, dns.dns_aaaa_data, windnsdef/DNS_AAAA_DATA, windnsdef/PDNS_AAAA_DATA'
 req.header: windnsdef.h
 req.include-header: 

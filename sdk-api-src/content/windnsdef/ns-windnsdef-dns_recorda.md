@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_RECORD","*PDNS_RECORDA","DNS_RECORD","DNS_RECORD st
 old-location: dns\dns_record.htm
 tech.root: DNS
 ms.assetid: ab7b96a5-346f-4e01-bb2a-885f44764590
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_RECORD, *PDNS_RECORDA, DNS_RECORD, DNS_RECORD structure [DNS], DNS_RECORDA, PDNS_RECORD, PDNS_RECORD structure pointer [DNS], _DnsRecordA, _DnsRecordW, _dns_dns_record, dns.dns_record, windnsdef/DNS_RECORD, windnsdef/PDNS_RECORD'
 req.header: windnsdef.h
 req.include-header: 

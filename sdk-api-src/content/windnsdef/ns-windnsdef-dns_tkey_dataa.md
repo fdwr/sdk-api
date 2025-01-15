@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_TKEY_DATA","*PDNS_TKEY_DATAA","DNS_RCODE_BADKEY","D
 old-location: dns\dns_tkey_data.htm
 tech.root: DNS
 ms.assetid: 4dad3449-3e41-47d9-89c2-10fa6e51573b
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_TKEY_DATA, *PDNS_TKEY_DATAA, DNS_RCODE_BADKEY, DNS_RCODE_BADSIG, DNS_RCODE_BADTIME, DNS_TKEY_DATA, DNS_TKEY_DATA structure [DNS], DNS_TKEY_DATAA, DNS_TKEY_MODE_DIFFIE_HELLMAN, DNS_TKEY_MODE_GSS, DNS_TKEY_MODE_RESOLVER_ASSIGN, DNS_TKEY_MODE_SERVER_ASSIGN, PDNS_TKEY_DATA, PDNS_TKEY_DATA structure pointer [DNS], _dns_dns_tkey_data, dns.dns_tkey_data, windnsdef/DNS_TKEY_DATA, windnsdef/PDNS_TKEY_DATA'
 req.header: windnsdef.h
 req.include-header: 

@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_SRV_DATA","*PDNS_SRV_DATAW","DNS_SRV_DATA","DNS_SRV
 old-location: dns\dns_srv_data.htm
 tech.root: DNS
 ms.assetid: 212db7ac-a5e3-4e58-b1c2-0eb551403dfc
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_SRV_DATA, *PDNS_SRV_DATAW, DNS_SRV_DATA, DNS_SRV_DATA structure [DNS], DNS_SRV_DATAW, PDNS_SRV_DATA, PDNS_SRV_DATA structure pointer [DNS], _dns_dns_srv_data, dns.dns_srv_data, windnsdef/DNS_SRV_DATA, windnsdef/PDNS_SRV_DATA'
 req.header: windnsdef.h
 req.include-header: 

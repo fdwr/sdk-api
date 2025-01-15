@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_WINS_DATA","DNS_WINS_DATA","DNS_WINS_DATA structure
 old-location: dns\dns_wins_data.htm
 tech.root: DNS
 ms.assetid: df41c397-e662-42b4-9193-6776f9071898
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_WINS_DATA, DNS_WINS_DATA, DNS_WINS_DATA structure [DNS], DNS_WINS_FLAG_LOCAL, DNS_WINS_FLAG_SCOPE, PDNS_WINS_DATA, PDNS_WINS_DATA structure pointer [DNS], _dns_dns_wins_data, dns.dns_wins_data, windnsdef/DNS_WINS_DATA, windnsdef/PDNS_WINS_DATA'
 req.header: windnsdef.h
 req.include-header: 

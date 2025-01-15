@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_MX_DATA","*PDNS_MX_DATAW","DNS_MX_DATA","DNS_MX_DAT
 old-location: dns\dns_mx_data.htm
 tech.root: DNS
 ms.assetid: 72a0b42e-a7af-42d2-b672-cf06d0b5d1ba
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_MX_DATA, *PDNS_MX_DATAW, DNS_MX_DATA, DNS_MX_DATA structure [DNS], DNS_MX_DATAW, PDNS_MX_DATA, PDNS_MX_DATA structure pointer [DNS], _dns_dns_mx_data, dns.dns_mx_data, windnsdef/DNS_MX_DATA, windnsdef/PDNS_MX_DATA'
 req.header: windnsdef.h
 req.include-header: 

@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_ADDR_ARRAY","AF_INET","AF_INET6","DNS_ADDR_ARRAY","
 old-location: dns\dns_addr_array.htm
 tech.root: DNS
 ms.assetid: 5FD7F28B-D1A6-4731-ACB9-A7BB23CC1FB4
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_ADDR_ARRAY, AF_INET, AF_INET6, DNS_ADDR_ARRAY, DNS_ADDR_ARRAY structure [DNS], PDNS_ADDR_ARRAY, PDNS_ADDR_ARRAY structure pointer [DNS], dns.dns_addr_array, windnsdef/DNS_ADDR_ARRAY, windnsdef/PDNS_ADDR_ARRAY'
 req.header: windnsdef.h
 req.include-header: 

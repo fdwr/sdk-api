@@ -6,7 +6,7 @@ helpviewer_keywords: ["*PDNS_DNSKEY_DATA","*PDNS_KEY_DATA","1","2","3","4","5","
 old-location: dns\dns_key_data.htm
 tech.root: DNS
 ms.assetid: d7d60322-4d06-4c57-b181-c6a38e09e1ef
-ms.date: 01/08/2024
+ms.date: 01/15/2025
 ms.keywords: '*PDNS_DNSKEY_DATA, *PDNS_KEY_DATA, 1, 2, 3, 4, 5, DNS_DNSKEY_DATA, DNS_DNSKEY_DATA structure [DNS], DNS_KEY_DATA, DNS_KEY_DATA structure [DNS], PDNS_DNSKEY_DATA, PDNS_DNSKEY_DATA structure pointer [DNS], PDNS_KEY_DATA, PDNS_KEY_DATA structure pointer [DNS], _dns_dns_key_data, dns.dns_key_data, windnsdef/DNS_DNSKEY_DATA, windnsdef/DNS_KEY_DATA, windnsdef/PDNS_DNSKEY_DATA, windnsdef/PDNS_KEY_DATA'
 req.header: windnsdef.h
 req.include-header: 
