@@ -44,7 +44,7 @@ helpviewer_keywords:
 
 ## -description
 
-Creates a new instance of [IPropertySetSerializer](/uwp/api/windows.storage.streams.ipropertysetserializer).
+Creates a new instance of an object that implements [IPropertySetSerializer](/uwp/api/windows.storage.streams.ipropertysetserializer).
 
 ## -parameters
 
@@ -57,6 +57,11 @@ Recieves a pointer to the new instance of **IPropertySetSerializer**.
 S_OK on success.
 
 ## -remarks
+
+The returned **IPropertySetSerializer** can be used to serialize and deserialize property
+sets to and from buffers that are used within a process or passed between two running processes.
+There is no guarantee that a serialized property set buffer can be deserialized
+by another computer or by the same computer after a reboot.
 
 ## -see-also
 
