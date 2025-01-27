@@ -37,8 +37,6 @@ f1_keywords:
  - appmodel/VerifyApplicationUserModelId
 dev_langs:
  - c++
-dev_langs:
- - c++
 helpviewer_keywords:
  - VerifyApplicationUserModelId
 ---

@@ -37,8 +37,6 @@ f1_keywords:
  - appmodel/VerifyPackageFamilyName
 dev_langs:
  - c++
-dev_langs:
- - c++
 helpviewer_keywords:
  - VerifyPackageFamilyName
 ---
