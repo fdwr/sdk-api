@@ -49,7 +49,7 @@ api_name:
 
 ## -description
 
-Retrieves the default geographical location of the user as an International Organization for Standardization (ISO) 3166-1 two-letter code or a United Nations (UN) Series M, Number 49 (M.49) numeric code.
+Retrieves the default geographical location of the user as an International Organization for Standardization (ISO) 3166-1 two-letter code, if available. Otherwise, a United Nations (UN) Series M, Number 49 (M.49) numeric code.
 
 ## -parameters
 
@@ -74,6 +74,10 @@ Zero indicates that the function failed. To get extended error information, call
 | **ERROR_INSUFFICIENT_BUFFER** | The buffer that the *geoName* parameter specifies is too small for the string. |
 
 ## -remarks
+
+If the ISO 3166-1 code for the user's default geographical location is 'XX' (indicating that no code has been assigned), but the location does have a UN M.49 code assigned, then the M.49 code is returned as a decimal string.
+
+If the ISO 3166-1 code for the user's default geographical location is 'XX' (which indicates that no code has been assigned), but the location does have a UN M.49 code assigned, then the M.49 code is returned as a decimal string.
 
 For information about two-letter ISO 3166-1 codes, see [ISO 3166 Country Codes](https://www.iso.org/iso-3166-country-codes.html).
 
