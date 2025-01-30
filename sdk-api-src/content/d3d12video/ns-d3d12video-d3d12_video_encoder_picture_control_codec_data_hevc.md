@@ -125,19 +125,19 @@ The following tables list the expected VPS, SPS and PPS Values for HEVC encoding
 
 | D3D12 Level | Expected general_level_idc | Notes |
 |--------|------------|------------|
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_1 | 30 | Calculated by multiplying the HEVC level by 30 (1 x 30 = 30) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_2 | 60 | Calculated by multiplying the HEVC level by 30 (2 x 30 = 60) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_21 | 63 | Calculated by multiplying the HEVC level by 30 (2.1 x 30 = 63) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_3 | 90 | Calculated by multiplying the HEVC level by 30 (3 x 30 = 90) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_31 | 93 | Calculated by multiplying the HEVC level by 30 (3.1 x 30 = 93) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_4 | 20 | Calculated by multiplying the HEVC level by 30 (4 x 30 = 120) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_41 | 23 | Calculated by multiplying the HEVC level by 30 (4.1 x 30 = 123) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_5 | 50 | Calculated by multiplying the HEVC level by 30 (5 x 30 = 150) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_51 | 53 | Calculated by multiplying the HEVC level by 30 (5.1 x 30 = 153) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_52 | 56 | Calculated by multiplying the HEVC level by 30 (5.2 x 30 = 156) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_6 | 80 | Calculated by multiplying the HEVC level by 30 (6 x 30 = 80) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_61 | 83 | Calculated by multiplying the HEVC level by 30 (6.1 x 30 = 183) and taking the last two digits. |
-D3D12_VIDEO_ENCODER_LEVELS_HEVC_62 | 86 | Calculated by multiplying the HEVC level by 30 (6.2 x 30 = 186) and taking the last two digits. |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_1 | 30 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_2 | 60 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_21 | 63 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_3 | 90 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_31 | 93 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_4 | 120 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_41 | 123 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_5 | 150 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_51 | 153 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_52 | 156 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_6 | 180 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_61 | 183 | None |
+D3D12_VIDEO_ENCODER_LEVELS_HEVC_62 | 186 | None |
 
 ### HEVC Video Parameter Set expected values
 
