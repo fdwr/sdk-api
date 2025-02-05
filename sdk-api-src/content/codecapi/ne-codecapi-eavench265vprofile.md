@@ -12,8 +12,8 @@ req.header: codecapi.h
 req.include-header: 
 req.kmdf-ver: 
 req.max-support: 
-req.target-min-winverclnt: 
-req.target-min-winversvr: 
+req.target-min-winverclnt: Windows 10
+req.target-min-winversvr: Windows Server 2019
 req.target-type: 
 req.typenames: 
 typedef_isUnnamed: false
