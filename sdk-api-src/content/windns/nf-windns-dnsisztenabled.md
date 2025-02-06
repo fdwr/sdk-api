@@ -52,7 +52,7 @@ True if ZTDNS is enabled; otherwise, false.
 
 ## -remarks
 
-Because there is no import library for this function, you must use [GetProcAddress](/windows/desktop/api/libloaderapi/nf-libloaderapi-getprocaddress).
+Because there is no import library for this function, you must call [LoadLibrary](/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibraryw), specifying the dll name "dnsapi.dll", and then [GetProcAddress](/windows/desktop/api/libloaderapi/nf-libloaderapi-getprocaddress), specifying the API name "DnsIsZtEnabled".
 
 ## -see-also
 
